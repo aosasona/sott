@@ -1,8 +1,6 @@
-# README
+# Sott
 
-## About
-
-About your template
+Sott is a [wails](https://wails.io) template including SolidJS, TailwindCSS and Typescript.
 
 ## Live Development
 

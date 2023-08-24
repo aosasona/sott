@@ -1,9 +1,11 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
   "name": "{{.ProjectName}}",
+  "assetdir": "./frontend/dist",
   "outputfilename": "{{.BinaryName}}",
   "frontend:install": "npm install",
   "frontend:build": "npm run build",
+  "wailsjsdir": "./frontend/src",
   "author": {
     "name": "{{.AuthorName}}",
     "email": "{{.AuthorEmail}}"
