@@ -1,5 +1,5 @@
 {
-  "name": "SolidJS template for Wails",
+  "name": "SolidJS template with TailwindCSS and Typescript",
   "shortname": "sott",
   "author": "@aosasona",
   "description": "SolidJS + TailwindCSS + Typescript",

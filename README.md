@@ -2,6 +2,12 @@
 
 Sott is a [wails](https://wails.io) template including SolidJS, TailwindCSS and Typescript.
 
+## Using template
+
+```bash
+wails init -n my-project -t https://github.com/aosasona/sott
+```
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
